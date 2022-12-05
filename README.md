@@ -1,19 +1,21 @@
 # app-dev
 My First Repository
-
 <p align="Center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFG5debXKPtvV9D_5ADpNSB6Z4otzBEXzp6Nmc6jGBbSlb9G8IgZ-Aw1m2c_J_DIuz30&usqp=CAU">
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFG5debXKPtvV9D_5ADpNSB6Z4otzBEXzp6Nmc6jGBbSlb9G8IgZ-Aw1m2c_J_DIuz30&usqp=CAU">
   <br/>
-  <h2 allign="Center>2022 PG-13 2h 10m </h2>
+  <h1 align="Center">TOP GUN: MAVERICK</h1>
 </p>
+
+
+    
               
 ## PICTURES
 ![Picture](http://www.magtheweekly.com/assets/uploads/updates/2022-06-01/15484_3839469_updates.jpg)
 
 ![Picture](https://pbs.twimg.com/media/DlYPZm7XoAAXN0B.jpg)
-
+             
 ![Picture](https://cdn.justjared.com/wp-content/uploads/2022/05/topgun-royal/tom-cruise-jennifer-connelly-top-gun-maverick-premiere-03.jpg)
- 
+              
 ## DETAILS
 ACTION 
 DRAMA
