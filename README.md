@@ -49,6 +49,8 @@ Tom Cruise, Jennifer Connelly, Miles Teller
 [LINK] https://www.imdb.com/video/vi552911385/?listId=ls025720609&ref_=tt_eds_center-3_ecw_brf_topgunbtn_cta
 
 ## DOWNLOAD LINK
-![PIcture](https://www.starazi.com/wp-content/uploads/2020/01/starazi-logo-1.png)
-
-https://web.starazi.com/movies/download/1220-top-gun-maverick-2022
+ <p align="Center">
+   <img src="https://www.starazi.com/wp-content/uploads/2020/01/starazi-logo-1.png">
+  <br/>
+  <h1 align="Center">https://web.starazi.com/movies/download/1220-top-gun-maverick-2022</h1>
+</p>
