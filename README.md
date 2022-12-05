@@ -7,16 +7,16 @@ My First Repository
   <h2 allign="Center>2022 PG-13 2h 10m </h2>
 </p>
               
-## DETAILS
-ACTION 
-DRAMA
-
 ## PICTURES
 ![Picture](http://www.magtheweekly.com/assets/uploads/updates/2022-06-01/15484_3839469_updates.jpg)
 
 ![Picture](https://pbs.twimg.com/media/DlYPZm7XoAAXN0B.jpg)
 
 ![Picture](https://cdn.justjared.com/wp-content/uploads/2022/05/topgun-royal/tom-cruise-jennifer-connelly-top-gun-maverick-premiere-03.jpg)
+ 
+## DETAILS
+ACTION 
+DRAMA
               
 ## DESCRIPTIONS
 After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.
